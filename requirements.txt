@@ -5,3 +5,4 @@ scikit-learn
 gunicorn        
 whitenoise      
 psycopg2-binary
+djangorestframework
